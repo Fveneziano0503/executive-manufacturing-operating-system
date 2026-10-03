@@ -260,7 +260,7 @@ This public repository exists to demonstrate product thinking, operating experie
 
 30+ years across manufacturing, operations, finance, technology, and business transformation, progressing from manufacturing operator through executive leadership.
 
-- Leadership responsibility across 400+ employees
+- Leadership responsibility across 400+ team members
 - CNC machining and machine-tool background
 - Process engineering and manufacturing technology
 - Operations and financial leadership
