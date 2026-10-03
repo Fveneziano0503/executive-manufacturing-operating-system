@@ -5,7 +5,7 @@ This repository is intended to demonstrate capability without exposing proprieta
 ## Safe to publish
 
 - High-level product descriptions
-- Sanitized screenshots
+- Illustrative workflow visuals with fictional data
 - Fictional data
 - High-level architecture
 - Business problems and outcomes

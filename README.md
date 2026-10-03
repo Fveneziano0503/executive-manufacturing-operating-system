@@ -109,7 +109,7 @@ This diagram is intentionally high level and does not disclose implementation-sp
 
 ---
 
-## Selected Capabilities
+## Selected Capability Concepts
 
 ### Executive Visibility
 Bring critical operational and financial signals into a more useful management view.
@@ -137,7 +137,7 @@ Capture issues, actions, ownership, and progress over time.
 
 ---
 
-## Business Value
+## Intended Business Value
 
 The concept is designed around measurable operating outcomes:
 
@@ -175,7 +175,7 @@ Technology is applied to support that operating reality rather than becoming the
 
 ---
 
-## Product Screenshots
+## Illustrative Portfolio Views
 
 ### Executive Command Center
 A high-level management view designed to surface business health, priorities, risks, and exceptions in one place.
@@ -217,7 +217,7 @@ A focused management view for tracking KPIs, ownership, open actions, status, an
 
 ![KPI and Action Tracking](screenshots/06-kpi-action-tracking.png)
 
-> All screenshots use sanitized or demonstration data. Core implementation, proprietary workflows, and detailed system logic are maintained privately.
+> All six images are newly created illustrative workflow visuals using fictional data. They are not live application screenshots and do not verify AI execution, connected systems, or production readiness. Private implementation details are not published.
 
 <br>
 
@@ -228,7 +228,7 @@ A focused management view for tracking KPIs, ownership, open actions, status, an
 - Product direction
 - High-level capabilities
 - High-level system view
-- Sanitized screenshots
+- Illustrative workflow views
 - Business value
 - Product thinking
 
@@ -248,7 +248,7 @@ A focused management view for tracking KPIs, ownership, open actions, status, an
 
 ## Project Status
 
-**Private working prototype / public portfolio overview**
+**Public concept case study / illustrative workflow overview**
 
 This public repository exists to demonstrate product thinking, operating experience, and applied AI capability while preserving the underlying implementation and intellectual property.
 

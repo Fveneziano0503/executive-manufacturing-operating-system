@@ -1,14 +1,10 @@
-# Public Screenshots
+# Illustrative Portfolio Views
 
-Place only sanitized screenshots in this folder.
+These six images are newly created workflow illustrations with fictional data. They are not live app screenshots. No customer, employer, real financial, personal-calendar, or credential data is used. They do not prove connected integrations or completed automation.
 
-Recommended examples:
-- `01-executive-dashboard.png`
-- `02-operations-overview.png`
-- `03-kpi-actions.png`
-- `04-document-intelligence.png`
-- `05-maintenance-overview.png`
-
-Use fictional or altered data.
-
-Do not publish real customer names, employees, financials, pricing, drawings, credentials, prompts, decision rules, or confidential company information.
+- `01-executive-command-center.png` — Executive command center
+- `02-operations-capacity.png` — Operations and capacity
+- `03-finance-dashboard.png` — Finance visibility
+- `04-document-intelligence.png` — Document intelligence
+- `05-maintenance-dashboard.png` — Maintenance visibility
+- `06-kpi-action-tracking.png` — KPI and action tracking
