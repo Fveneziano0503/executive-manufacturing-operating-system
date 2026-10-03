@@ -1,0 +1,22 @@
+# Secrets / credentials
+.env
+.env.*
+*.key
+*.pem
+
+# Private implementation
+src-private/
+private/
+internal/
+prompts/
+agents/
+architecture-private/
+customer-data/
+private-data/
+
+# Dependencies / local files
+node_modules/
+venv/
+.venv/
+.DS_Store
+Thumbs.db
