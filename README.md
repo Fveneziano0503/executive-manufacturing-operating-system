@@ -175,30 +175,49 @@ Technology is applied to support that operating reality rather than becoming the
 
 ---
 
-## Public Screenshots
+## Product Screenshots
 
-This repository may include **sanitized screenshots only**.
+### Executive Command Center
+A high-level management view designed to surface business health, priorities, risks, and exceptions in one place.
 
-Any screenshots shown here should use fictional or altered data and must not reveal:
+![Executive Command Center](screenshots/01-executive-command-center.png)
 
-- customer names
-- employee information
-- real financial data
-- proprietary pricing
-- confidential drawings
-- credentials or API keys
-- internal prompts
-- hidden scoring logic
-- private workflow rules
-- confidential business information
+---
 
-Recommended public screenshots:
+### Operations & Capacity
+A manufacturing operations view focused on throughput, backlog, capacity, delivery performance, and constraints.
 
-1. Executive dashboard
-2. Operations overview
-3. KPI / action tracking
-4. Document intelligence workflow
-5. Maintenance overview
+![Operations and Capacity](screenshots/02-operations-capacity.png)
+
+---
+
+### Finance Dashboard
+A management-focused view connecting operating activity with cash, receivables, payables, margin, and financial performance.
+
+![Finance Dashboard](screenshots/03-finance-dashboard.png)
+
+---
+
+### AI-Assisted Quoting & Document Intelligence
+A workflow designed to extract, organize, and interpret information from RFQs and business documents to support faster human review.
+
+![Document Intelligence](screenshots/04-document-intelligence.png)
+
+---
+
+### Maintenance Intelligence
+A view designed to bring preventive maintenance, downtime, recurring issues, and equipment activity into one operating picture.
+
+![Maintenance Dashboard](screenshots/05-maintenance-dashboard.png)
+
+---
+
+### KPI & Action Tracking
+A focused management view for tracking KPIs, ownership, open actions, status, and follow-through.
+
+![KPI and Action Tracking](screenshots/06-kpi-action-tracking.png)
+
+> All screenshots use sanitized or demonstration data. Core implementation, proprietary workflows, and detailed system logic are maintained privately.
 
 ---
 
