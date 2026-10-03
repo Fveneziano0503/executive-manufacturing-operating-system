@@ -219,7 +219,7 @@ A focused management view for tracking KPIs, ownership, open actions, status, an
 
 > All screenshots use sanitized or demonstration data. Core implementation, proprietary workflows, and detailed system logic are maintained privately.
 
----
+<br>
 
 ## Public vs. Private
 
